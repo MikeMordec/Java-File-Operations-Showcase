@@ -1,0 +1,15 @@
+The count of the records in the data file is: 11
+The dollar amount of the total Reward Cash that was issued is: 32.0
+Determine the ratio of the total Reward Cash that was issued to the total customer purchases is: 0.060670408008493854
+List the distinct customers that are not members of the Reward Program:102102103103106
+The range of the transaction dates: Wed Feb 10 00:00:00 CST 2021 - Sun Feb 14 00:00:00 CST 2021
+The count of the records in the data file is: 11
+The dollar amount of the total Reward Cash that was issued is: 32.0
+Determine the ratio of the total Reward Cash that was issued to the total customer purchases is: 0.060670408008493854
+List the distinct customers that are not members of the Reward Program:102102103103106
+The range of the transaction dates: Wed Feb 10 00:00:00 CST 2021 - Sun Feb 14 00:00:00 CST 2021
+The count of the records in the data file is: 11
+The dollar amount of the total Reward Cash that was issued is: 32.0
+Determine the ratio of the total Reward Cash that was issued to the total customer purchases is: 0.060670408008493854
+List the distinct customers that are not members of the Reward Program:102 102 103 103 106 
+The range of the transaction dates: Wed Feb 10 00:00:00 CST 2021 - Sun Feb 14 00:00:00 CST 2021
